@@ -1,0 +1,2 @@
+just writing some 
+changes into this text file to learn how to add it to staging in git and stuff
